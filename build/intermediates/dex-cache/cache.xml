@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\fabiola.ruiz\Desktop\proy final\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\fabiola.ruiz\Desktop\proy final\XYZReader\build\intermediates\pre-dexed\debug\volley-585e92a14318792985c52c53cbefe4237770cf97.jar" />
+    </item>
+    <item
+        jar="C:\Users\fabiola.ruiz\Desktop\proy final\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\fabiola.ruiz\Desktop\proy final\XYZReader\build\intermediates\pre-dexed\debug\classes-7d2ec7c92a038bd718039344e3b38b8ffa497f17.jar" />
+    </item>
+    <item
+        jar="C:\Users\fabiola.ruiz\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\fabiola.ruiz\Desktop\proy final\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0-f3e6b739e3564bfed2e720591d1e7b8ca3ec2315.jar" />
+    </item>
+    <item
+        jar="C:\Users\fabiola.ruiz\Desktop\proy final\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="C:\Users\fabiola.ruiz\Desktop\proy final\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-619ab9a4978c5c72a1cefdc1f743aff457876374.jar" />
+    </item>
+    <item
+        jar="C:\Users\fabiola.ruiz\Desktop\proy final\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="C:\Users\fabiola.ruiz\Desktop\proy final\XYZReader\build\intermediates\pre-dexed\debug\classes-e9e57c8f468abc161e81a5759dc01c225eeaacbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\fabiola.ruiz\Desktop\proy final\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="C:\Users\fabiola.ruiz\Desktop\proy final\XYZReader\build\intermediates\pre-dexed\debug\classes-28266a614bd8c18fe76e0313ae4e34799f7328d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\fabiola.ruiz\Desktop\proy final\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\fabiola.ruiz\Desktop\proy final\XYZReader\build\intermediates\pre-dexed\debug\classes-5ea2ea19b7cbc5d7b4dcc14af8e049d8f24e0919.jar" />
+    </item>
+    <item
+        jar="C:\Users\fabiola.ruiz\Desktop\proy final\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\fabiola.ruiz\Desktop\proy final\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-cabd006c7bcb0b76d6c8aef4aee5fd38e4c7afee.jar" />
+    </item>
+    <item
+        jar="C:\Users\fabiola.ruiz\Desktop\proy final\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\fabiola.ruiz\Desktop\proy final\XYZReader\build\intermediates\pre-dexed\debug\classes-faef69e67050a9fa0a201883e8507190921ae27c.jar" />
+    </item>
+    <item
+        jar="C:\Users\fabiola.ruiz\Desktop\proy final\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="C:\Users\fabiola.ruiz\Desktop\proy final\XYZReader\build\intermediates\pre-dexed\debug\classes-63b84b9f2edd8dfeb18b6627eccbd54508fd0504.jar" />
+    </item>
+    <item
+        jar="C:\Users\fabiola.ruiz\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\fabiola.ruiz\Desktop\proy final\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2-9917a82f06465da0a9b8b6592ef56e790d78d3fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\fabiola.ruiz\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\fabiola.ruiz\Desktop\proy final\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-002e4b2ab252245853e672e15ac797e0bc84bdb2.jar" />
+    </item>
+
+</items>
